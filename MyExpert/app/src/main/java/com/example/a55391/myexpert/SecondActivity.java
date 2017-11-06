@@ -11,7 +11,7 @@ public class SecondActivity extends Activity {
         setContentView(R.layout.activity_main);
 
         System.out.println("我是一个兵，来自老百姓！");
-        System.out.println("我是一个兵，来自老百姓！");
+       
 
 
 
