@@ -11,5 +11,6 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
 
         int i=0;
+        int J=123;
     }
 }
